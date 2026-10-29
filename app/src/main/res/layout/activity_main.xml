@@ -50,8 +50,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="一"
-                app:checkable="true" />
+                android:text="一" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/dayTue"
@@ -62,8 +61,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="二"
-                app:checkable="true" />
+                android:text="二" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/dayWed"
@@ -74,8 +72,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="三"
-                app:checkable="true" />
+                android:text="三" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/dayThu"
@@ -86,8 +83,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="四"
-                app:checkable="true" />
+                android:text="四" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/dayFri"
@@ -98,8 +94,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="五"
-                app:checkable="true" />
+                android:text="五" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/daySat"
@@ -110,8 +105,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="六"
-                app:checkable="true" />
+                android:text="六" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/daySun"
@@ -122,8 +116,7 @@
                 android:layout_marginHorizontal="2dp"
                 android:minWidth="0dp"
                 android:paddingHorizontal="0dp"
-                android:text="日"
-                app:checkable="true" />
+                android:text="日" />
         </LinearLayout>
 
         <TextView

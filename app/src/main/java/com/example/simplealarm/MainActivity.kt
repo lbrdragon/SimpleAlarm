@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity() {
         timePicker.setIs24HourView(true)
 
         dayOrder.forEachIndexed { i, day -> dayButtons[day] = findViewById(dayIds[i]) }
+        dayButtons.values.forEach { it.isCheckable = true }
 
         val cfg = AlarmScheduler.loadConfig(this)
         timePicker.hour = cfg.hour
